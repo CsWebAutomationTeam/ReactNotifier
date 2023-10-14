@@ -1,2 +1,3 @@
-# ReactNotifier
-A React project to notify the user via mail
+# React Notifier
+
+A app which notifies user.
